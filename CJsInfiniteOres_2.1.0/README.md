@@ -10,4 +10,4 @@ Ore patches cannot empty and are unlimted and automatically refill, configure nu
 ## Known issues
 Having refill enabled will cause lag spikes on the interval, this is likely to cause issues on multiplayer. Setting the time high is reccomended if you use it. For this reason it is disabled by default, I am still looking for more multiplayer-friendly ways to handle refilling ore patches.
 
-PLEASE SEE NAUTILUS INFINITE ORES FOR THE ORIGINAL MOD. CJ5Boss MAINTAINS THIS MOD FOR THE CURRENT VERSION OF FACTORIO.
+PLEASE SEE NAUTILUS INFINITE ORES FOR THE ORIGINAL MOD. This mod is maintained for the current Factorio version.
